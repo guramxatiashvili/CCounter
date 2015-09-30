@@ -1,0 +1,11 @@
+c:\users\gurami\documents\visual studio 2013\Projects\Ccounter_gurami_oop\Ccounter_gurami_oop\bin\Debug\Ccounter_gurami_oop.exe.config
+c:\users\gurami\documents\visual studio 2013\Projects\Ccounter_gurami_oop\Ccounter_gurami_oop\bin\Debug\Food.mdf
+c:\users\gurami\documents\visual studio 2013\Projects\Ccounter_gurami_oop\Ccounter_gurami_oop\bin\Debug\Food_log.ldf
+c:\users\gurami\documents\visual studio 2013\Projects\Ccounter_gurami_oop\Ccounter_gurami_oop\bin\Debug\Ccounter_gurami_oop.exe
+c:\users\gurami\documents\visual studio 2013\Projects\Ccounter_gurami_oop\Ccounter_gurami_oop\bin\Debug\Ccounter_gurami_oop.pdb
+c:\users\gurami\documents\visual studio 2013\Projects\Ccounter_gurami_oop\Ccounter_gurami_oop\obj\Debug\Ccounter_gurami_oop.csprojResolveAssemblyReference.cache
+c:\users\gurami\documents\visual studio 2013\Projects\Ccounter_gurami_oop\Ccounter_gurami_oop\obj\Debug\Ccounter_gurami_oop.Ccounter.resources
+c:\users\gurami\documents\visual studio 2013\Projects\Ccounter_gurami_oop\Ccounter_gurami_oop\obj\Debug\Ccounter_gurami_oop.Properties.Resources.resources
+c:\users\gurami\documents\visual studio 2013\Projects\Ccounter_gurami_oop\Ccounter_gurami_oop\obj\Debug\Ccounter_gurami_oop.csproj.GenerateResource.Cache
+c:\users\gurami\documents\visual studio 2013\Projects\Ccounter_gurami_oop\Ccounter_gurami_oop\obj\Debug\Ccounter_gurami_oop.exe
+c:\users\gurami\documents\visual studio 2013\Projects\Ccounter_gurami_oop\Ccounter_gurami_oop\obj\Debug\Ccounter_gurami_oop.pdb
